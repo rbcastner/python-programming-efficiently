@@ -1,0 +1,1287 @@
+1896	Thomas Burke	USA	100m men
+1896	Thomas Curtis	USA	110m hurdles men
+1896	Edwin Flack	AUS	1500m men
+1896	Thomas Burke	USA	400m men
+1896	Edwin Flack	AUS	800m men
+1896	Robert Garrett	USA	discus throw men
+1896	Ellery Clark	USA	high jump men
+1896	Ellery Clark	USA	long jump men
+1896	Spyridon Louis	GRE	marathon men
+1896	William Welles Hoyt	USA	pole vault men
+1896	Robert Garrett	USA	shot put men
+1896	James Connolly	USA	triple jump men
+1900	Francis Jarvis	USA	100m men
+1900	Alvin Kraenzlein	USA	110m hurdles men
+1900	Charles Bennett	GBR	1500m men
+1900	Walter B. John Tewksbury	USA	200m men
+1900	Alvin Kraenzlein	USA	200m hurdles men
+1900	George Orton	CAN	3000m steeplechase men
+1900	John Rimmer	GBR	4000m steeplechase men
+1900	Maxwell W.Maxey Long	USA	400m men
+1900	Walter B. John Tewksbury	USA	400m hurdles men
+1900	Charles Bennett	ZZX	5000m team men
+1900	John Rimmer	ZZX	5000m team men
+1900	Sidney Robinson	ZZX	5000m team men
+1900	Stanley Rowley	ZZX	5000m team men
+1900	Alfred Tysoe	ZZX	5000m team men
+1900	Alvin Kraenzlein	USA	60m men
+1900	Alfred Tysoe	GBR	800m men
+1900	Rudolf Bauer	HUN	discus throw men
+1900	John Jesus Flanagan	USA	hammer throw men
+1900	Irving Baxter	USA	high jump men
+1900	Ray Ewry	USA	high jump, standing men
+1900	Alvin Kraenzlein	USA	long jump men
+1900	Ray Ewry	USA	long jump, standing men
+1900	Michel Theato	FRA	marathon men
+1900	Irving Baxter	USA	pole vault men
+1900	Richard Sheldon	USA	shot put men
+1900	Meyer Prinstein	USA	triple jump men
+1900	Ray Ewry	USA	triple jump, standing men
+1904	Archie Hahn	USA	100m men
+1904	Frederick Schule	USA	110m hurdles men
+1904	James Lightbody	USA	1500m men
+1904	Archie Hahn	USA	200m men
+1904	Harry Hillman	USA	200m hurdles men
+1904	James Lightbody	USA	3000m steeplechase men
+1904	Harry Hillman	USA	400m men
+1904	Harry Hillman	USA	400m hurdles men
+1904	David Curtis Munson	USA	4miles team men
+1904	Arthur Newton	USA	4miles team men
+1904	Paul Harry Pilgrim	USA	4miles team men
+1904	George Underwood	USA	4miles team men
+1904	Howard Valentine	USA	4miles team men
+1904	Etienne Desmarteau	CAN	56lb weight throw (25.4kg) men
+1904	Archie Hahn	USA	60m men
+1904	James Lightbody	USA	800m men
+1904	Thomas Francis Kiely	GBR	decathlon men
+1904	Martin Sheridan	USA	discus throw men
+1904	John Jesus Flanagan	USA	hammer throw men
+1904	Samuel Jones	USA	high jump men
+1904	Ray Ewry	USA	high jump, standing men
+1904	Meyer Prinstein	USA	long jump men
+1904	Ray Ewry	USA	long jump, standing men
+1904	Thomas Hicks	USA	marathon men
+1904	Charles Dvorak	USA	pole vault men
+1904	Ralph Rose	USA	shot put men
+1904	Max Emmerich	USA	triathlon (long jump / shot put / 100 yards) men
+1904	Meyer Prinstein	USA	triple jump men
+1904	Ray Ewry	USA	triple jump, standing men
+1908	Reginald Walker	RSA	100m men
+1908	George Edward Larner	GBR	10miles walk (16093m) men
+1908	Forrest Smithson	USA	110m hurdles men
+1908	Melvin Sheppard	USA	1500m men
+1908	Robert Kerr	CAN	200m men
+1908	Arthur Russell	GBR	3200m steeplechase men
+1908	George Edward Larner	GBR	3500m walk men
+1908	William Coales	GBR	3miles team (4828m) men
+1908	Joseph Edmund Deakin	GBR	3miles team (4828m) men
+1908	Arthur James Robertson	GBR	3miles team (4828m) men
+1908	Wyndham Halswelle	GBR	400m men
+1908	Charles Joseph Bacon	USA	400m hurdles men
+1908	John Nathaniel Cartmell	USA	4x400m relay men
+1908	William Frank Hamilton	USA	4x400m relay men
+1908	Melvin Sheppard	USA	4x400m relay men
+1908	John Baxter Taylor	USA	4x400m relay men
+1908	Emil Robert Voigt	GBR	5 miles (8047m) men
+1908	Melvin Sheppard	USA	800m men
+1908	Martin Sheridan	USA	discus throw men
+1908	Martin Sheridan	USA	discus throw ancient style men
+1908	John Jesus Flanagan	USA	hammer throw men
+1908	Harry Franklin Porter	USA	high jump men
+1908	Ray Ewry	USA	high jump, standing men
+1908	Eric Lemming	SWE	javelin throw men
+1908	Eric Lemming	SWE	javelin throw freestyle men
+1908	Francis C. Irons	USA	long jump men
+1908	Ray Ewry	USA	long jump, standing men
+1908	John Joseph Hayes	USA	marathon men
+1908	Edward Tiffin Cooke	USA	pole vault men
+1908	Alfred Carleten Gilbert	USA	pole vault men
+1908	Ralph Rose	USA	shot put men
+1908	Timoty J. Ahearne	GBR	triple jump men
+1912	Hannes Kolehmainen	FIN	10000m men
+1912	George Goulding	CAN	10000m walk men
+1912	Ralph Craig	USA	100m men
+1912	Frederick Kelly	USA	110m hurdles men
+1912	Arnold Jackson	GBR	1500m men
+1912	Ralph Craig	USA	200m men
+1912	Tell Schirnding Berna	USA	3000m team men
+1912	George V. Bonhag	USA	3000m team men
+1912	Abel Kiviat	USA	3000m team men
+1912	Henry Louis Scott	USA	3000m team men
+1912	Norman Taber	USA	3000m team men
+1912	Charles Decker Reidpath	USA	400m men
+1912	William Applegarth	GBR	4x100m relay men
+1912	Victor Henry Augustus D'arcy	GBR	4x100m relay men
+1912	David Henry Jacobs	GBR	4x100m relay men
+1912	Henry Maitland Mackintosh	GBR	4x100m relay men
+1912	Edward F. Lindberg	USA	4x400m relay men
+1912	James Edwin Meredith	USA	4x400m relay men
+1912	Charles Decker Reidpath	USA	4x400m relay men
+1912	Melvin Sheppard	USA	4x400m relay men
+1912	Hannes Kolehmainen	FIN	5000m men
+1912	James Edwin Meredith	USA	800m men
+1912	Hannes Kolehmainen	FIN	cross country individual men
+1912	Hjalmar Andersson	SWE	cross country team men
+1912	John Eke	SWE	cross country team men
+1912	Josef Ternström	SWE	cross country team men
+1912	Jim Thorpe	USA	decathlon men
+1912	Hugo K. Wieslander	SWE	decathlon men
+1912	Armas Rudolf Taipale	FIN	discus throw men
+1912	Armas Rudolf Taipale	FIN	discus throw, both hands men
+1912	Matthew J. Mcgrath	USA	hammer throw men
+1912	Alma Wilfred Richards	USA	high jump men
+1912	Platt Adams	USA	high jump, standing men
+1912	Eric Lemming	SWE	javelin throw men
+1912	Juho Julius Saaristo	FIN	javelin throw, both hands men
+1912	Albert Lovejoy Gutterson	USA	long jump men
+1912	Konstantinos Tsiclitiras	GRE	long jump, standing men
+1912	Kennedy Kane Mcarthur	RSA	marathon men
+1912	Ferdinand Reinhardt Bie	NOR	pentathlon men
+1912	Jim Thorpe	USA	pentathlon men
+1912	Harry Stoddard Babcock	USA	pole vault men
+1912	Patrick Mcdonald	USA	shot put men
+1912	Ralph Rose	USA	shot put, both hands men
+1912	Gustav Lindblom	SWE	triple jump men
+1920	Paavo Nurmi	FIN	10000m men
+1920	Ugo Frigerio	ITA	10000m walk men
+1920	Charles Paddock	USA	100m men
+1920	Earl Thomson	CAN	110m hurdles men
+1920	Albert Hill	GBR	1500m men
+1920	Allen Woodring	USA	200m men
+1920	Percy Hodge	GBR	3000m steeplechase men
+1920	Horace Hallock Brown	USA	3000m team men
+1920	Ivan Dresser	USA	3000m team men
+1920	Arlie Alfred Schardt	USA	3000m team men
+1920	Ugo Frigerio	ITA	3000m walk men
+1920	Bevil Gordon D'Urban Rudd	RSA	400m men
+1920	Frank Loomis	USA	400m hurdles men
+1920	Morris Kirksey	USA	4x100m relay men
+1920	Loren Murchison	USA	4x100m relay men
+1920	Charles Paddock	USA	4x100m relay men
+1920	Jackson Scholz	USA	4x100m relay men
+1920	John Creyghton Ainsworth-Davis	GBR	4x400m relay men
+1920	Guy Montagu Butler	GBR	4x400m relay men
+1920	Cecil Richmond Griffiths	GBR	4x400m relay men
+1920	Robert Alexander Lindsay	GBR	4x400m relay men
+1920	Joseph Guillemot	FRA	5000m men
+1920	Patrick Mcdonald	USA	56lb weight throw (25.4kg) men
+1920	Albert Hill	GBR	800m men
+1920	Paavo Nurmi	FIN	cross country individual men
+1920	Frederik Teudor Koskenniemi	FIN	cross country team men
+1920	Heikki Liimatainen	FIN	cross country team men
+1920	Paavo Nurmi	FIN	cross country team men
+1920	Helge Andreas Lövland	NOR	decathlon men
+1920	Elmer Konstantin Niklander	FIN	discus throw men
+1920	Patrick Ryan	USA	hammer throw men
+1920	Richmond Landon	USA	high jump men
+1920	Jonni Myyrä	FIN	javelin throw men
+1920	R. William E. Petersson	SWE	long jump men
+1920	Hannes Kolehmainen	FIN	marathon men
+1920	Eero Reino Lehtonen	FIN	pentathlon men
+1920	Frank Foss	USA	pole vault men
+1920	Frans Wilhelmi Pörhölä	FIN	shot put men
+1920	Vilho Immanuel Tuulos	FIN	triple jump men
+1924	Ville Ritola	FIN	10000m men
+1924	Ugo Frigerio	ITA	10000m walk men
+1924	Harold Abrahams	GBR	100m men
+1924	Daniel Kinsey	USA	110m hurdles men
+1924	Paavo Nurmi	FIN	1500m men
+1924	Jackson Scholz	USA	200m men
+1924	Ville Ritola	FIN	3000m steeplechase men
+1924	Elias Katz	FIN	3000m team men
+1924	Frej Liewendhal	FIN	3000m team men
+1924	Paavo Nurmi	FIN	3000m team men
+1924	Ville Ritola	FIN	3000m team men
+1924	Eino Seppälä	FIN	3000m team men
+1924	S. Talja	FIN	3000m team men
+1924	Eric Henry Liddell	GBR	400m men
+1924	Frederick Morgan Taylor	USA	400m hurdles men
+1924	Louis Alfred Clarke	USA	4x100m relay men
+1924	Francis Hussey	USA	4x100m relay men
+1924	Jeremiah Alfred Leconey	USA	4x100m relay men
+1924	Loren Murchison	USA	4x100m relay men
+1924	Commodore Cochrane	USA	4x400m relay men
+1924	Alan Helffrich	USA	4x400m relay men
+1924	J. Oliver Macdonald	USA	4x400m relay men
+1924	William Stephenson	USA	4x400m relay men
+1924	Paavo Nurmi	FIN	5000m men
+1924	Douglas Gordon Lowe	GBR	800m men
+1924	Paavo Nurmi	FIN	cross country individual men
+1924	Eero Berg	FIN	cross country team men
+1924	Heikki Liimatainen	FIN	cross country team men
+1924	Paavo Nurmi	FIN	cross country team men
+1924	Eino Rastas	FIN	cross country team men
+1924	Ville Ritola	FIN	cross country team men
+1924	Väinö Jeremias Sipilä	FIN	cross country team men
+1924	Harold Marion Osborn	USA	decathlon men
+1924	Lemuel Clarence Houser	USA	discus throw men
+1924	Frederick Delmont Tootell	USA	hammer throw men
+1924	Harold Marion Osborn	USA	high jump men
+1924	Jonni Myyrä	FIN	javelin throw men
+1924	William De Hart Hubbard	USA	long jump men
+1924	Albin Oskar Stenroos	FIN	marathon men
+1924	Eero Reino Lehtonen	FIN	pentathlon men
+1924	Lee Barnes	USA	pole vault men
+1924	Lemuel Clarence Houser	USA	shot put men
+1924	Anthony William Winter	AUS	triple jump men
+1928	Paavo Nurmi	FIN	10000m men
+1928	Percy Williams	CAN	100m men
+1928	Elizabeth Robinson	USA	100m women
+1928	Sidney Atkinson	RSA	110m hurdles men
+1928	Harri Edvin Larva	FIN	1500m men
+1928	Percy Williams	CAN	200m men
+1928	Toivo Aarne Loukola	FIN	3000m steeplechase men
+1928	Raymond James Barbuti	USA	400m men
+1928	David George Burghley	GBR	400m hurdles men
+1928	Charles Edward Borah	USA	4x100m relay men
+1928	James F. Quinn	USA	4x100m relay men
+1928	Henry Argue Russell	USA	4x100m relay men
+1928	Frank Clifford Wykoff	USA	4x100m relay men
+1928	Myrtle Alice Cook	CAN	4x100m relay women
+1928	Fanny Rosenfeld	CAN	4x100m relay women
+1928	Ethel M. Smith	CAN	4x100m relay women
+1928	Jean Thompson	CAN	4x100m relay women
+1928	Frederick Pitt Alderman	USA	4x400m relay men
+1928	George Hetzel Baird	USA	4x400m relay men
+1928	Raymond James Barbuti	USA	4x400m relay men
+1928	Emerson Lane Spencer	USA	4x400m relay men
+1928	Ville Ritola	FIN	5000m men
+1928	Douglas Gordon Lowe	GBR	800m men
+1928	Karoline "Lina" Radke	GER	800m women
+1928	Paavo Ilmari Yrjölä	FIN	decathlon men
+1928	Lemuel Clarence Houser	USA	discus throw men
+1928	Halina Konopacka	POL	discus throw women
+1928	Patrick O'callaghan	IRL	hammer throw men
+1928	Robert Wade King	USA	high jump men
+1928	Ethel Catherwood	CAN	high jump women
+1928	Erik H. Lundqvist	SWE	javelin throw men
+1928	Edward Barton Hamm	USA	long jump men
+1928	Boughera Mohamed El Ouafi	FRA	marathon men
+1928	Sabin William Carr	USA	pole vault men
+1928	John H. Kuck	USA	shot put men
+1928	Mikio Oda	JPN	triple jump men
+1932	Janusz Kusocinski	POL	10000m men
+1932	Eddie Tolan	USA	100m men
+1932	Stanislawa Walasiewicz	POL	100m women
+1932	George J. Jr. Saling	USA	110m hurdles men
+1932	Luigi Beccali	ITA	1500m men
+1932	Eddie Tolan	USA	200m men
+1932	Volmari Iso-Hollo	FIN	3000m steeplechase men
+1932	William Arthur Carr	USA	400m men
+1932	Robert Morton Newburgh Tisdall	IRL	400m hurdles men
+1932	Hector Monroe Dyer	USA	4x100m relay men
+1932	Robert Allan Kiesel	USA	4x100m relay men
+1932	Martin Emmett Toppino	USA	4x100m relay men
+1932	Frank Clifford Wykoff	USA	4x100m relay men
+1932	Mary Louise Carew	USA	4x100m relay women
+1932	Evelyn Furtsch	USA	4x100m relay women
+1932	Annette Joan Rogers	USA	4x100m relay women
+1932	Wilhelmina Von bremen	USA	4x100m relay women
+1932	Edgar Allen Ablowich	USA	4x400m relay men
+1932	William Arthur Carr	USA	4x400m relay men
+1932	Ivan William Fuqua	USA	4x400m relay men
+1932	Karl De Witt Warner	USA	4x400m relay men
+1932	Lauri Aleksanteri Lehtinen	FIN	5000m men
+1932	Thomas William Green	GBR	50km walk men
+1932	Thomas Hampson	GBR	800m men
+1932	Mildred Didrikson	USA	80m hurdles women
+1932	James Aloysius Bernard Bausch	USA	decathlon men
+1932	John Franklin Anderson	USA	discus throw men
+1932	Lillian Copeland	USA	discus throw women
+1932	Patrick O'callaghan	IRL	hammer throw men
+1932	Duncan Mcnaughton	CAN	high jump men
+1932	Jean Shiley	USA	high jump women
+1932	Matti Henrik Jarvinen	FIN	javelin throw men
+1932	Mildred Didrikson	USA	javelin throw women
+1932	Edward Lansing Gordon	USA	long jump men
+1932	Juan Carlos Zabala	ARG	marathon men
+1932	William Waring Miller	USA	pole vault men
+1932	Leo Joseph Sexton	USA	shot put men
+1932	Chuhei Nambu	JPN	triple jump men
+1936	Ilmari Salminen	FIN	10000m men
+1936	Jesse Owens	USA	100m men
+1936	Helen Herring Stephens	USA	100m women
+1936	Forrest Grady Towns	USA	110m hurdles men
+1936	John Lovelock	NZL	1500m men
+1936	Jesse Owens	USA	200m men
+1936	Volmari Iso-Hollo	FIN	3000m steeplechase men
+1936	Archibald Franklin Williams	USA	400m men
+1936	Glenn Foster Hardin	USA	400m hurdles men
+1936	Foy Draper	USA	4x100m relay men
+1936	Ralph Metcalfe	USA	4x100m relay men
+1936	Jesse Owens	USA	4x100m relay men
+1936	Frank Clifford Wykoff	USA	4x100m relay men
+1936	Harriett Claiborne Bland	USA	4x100m relay women
+1936	Elizabeth Robinson	USA	4x100m relay women
+1936	Annette Joan Rogers	USA	4x100m relay women
+1936	Helen Herring Stephens	USA	4x100m relay women
+1936	Arthur Godfrey Kilner Brown	GBR	4x400m relay men
+1936	Godfrey Lionel Rampling	GBR	4x400m relay men
+1936	William Roberts	GBR	4x400m relay men
+1936	Frederick Ferdinand Wolff	GBR	4x400m relay men
+1936	Gunnar Höckert	FIN	5000m men
+1936	Hector Harold Whitlock	GBR	50km walk men
+1936	John Youie Woodruff	USA	800m men
+1936	Trebisonda Valla	ITA	80m hurdles women
+1936	Glenn Edward Morris	USA	decathlon men
+1936	William Kenneth Carpenter	USA	discus throw men
+1936	Gisela Mauermayer	GER	discus throw women
+1936	Karl Hein	GER	hammer throw men
+1936	Cornelius Cooper Johnson	USA	high jump men
+1936	Ibolya Csak	HUN	high jump women
+1936	Gerhard (Gerd) Stöck	GER	javelin throw men
+1936	Mathilde (Tilly) Fleischer	GER	javelin throw women
+1936	Jesse Owens	USA	long jump men
+1936	Kitei Son	JPN	marathon men
+1936	Earle Elmer Meadows	USA	pole vault men
+1936	Hans Woellke	GER	shot put men
+1936	Naoto Tajima	JPN	triple jump men
+1948	Emil Zatopek	TCH	10000m men
+1948	John Mikaelsson	SWE	10000m walk men
+1948	Harrison Dillard	USA	100m men
+1948	Fanny Blankers-Koen	NED	100m women
+1948	William Franklin III Porter	USA	110m hurdles men
+1948	Henry Eriksson	SWE	1500m men
+1948	Melvin Emery Patton	USA	200m men
+1948	Fanny Blankers-Koen	NED	200m women
+1948	Tore Sjöstrand	SWE	3000m steeplechase men
+1948	Arthur Wint	JAM	400m men
+1948	Roy Braxton Cochran	USA	400m hurdles men
+1948	Harrison Dillard	USA	4x100m relay men
+1948	Harold Norwood Ewell	USA	4x100m relay men
+1948	Melvin Emery Patton	USA	4x100m relay men
+1948	Lorenzo Christopher Wright	USA	4x100m relay men
+1948	Fanny Blankers-Koen	NED	4x100m relay women
+1948	Xenia Stad-De jong	NED	4x100m relay women
+1948	Gerda Johanna Marie Van der kade-Koudijs	NED	4x100m relay women
+1948	Jeannette Josephina Maria Witziers-Timmer	NED	4x100m relay women
+1948	Clifford Frederick Bourland	USA	4x400m relay men
+1948	Roy Braxton Cochran	USA	4x400m relay men
+1948	Arthur Harold Harnden	USA	4x400m relay men
+1948	Malvin Groston Whitfield	USA	4x400m relay men
+1948	Gaston Etienne Reiff	BEL	5000m men
+1948	John Artur Ljunggren	SWE	50km walk men
+1948	Malvin Groston Whitfield	USA	800m men
+1948	Fanny Blankers-Koen	NED	80m hurdles women
+1948	Robert Mathias	USA	decathlon men
+1948	Adolfo Consolini	ITA	discus throw men
+1948	Micheline Ostermeyer	FRA	discus throw women
+1948	Imre Nemeth	HUN	hammer throw men
+1948	John Winter	AUS	high jump men
+1948	Alice Marie Coachman	USA	high jump women
+1948	Kaj Tapio Rautavaara	FIN	javelin throw men
+1948	Hermine (Herma) Bauma	AUT	javelin throw women
+1948	William Samuel Steele	USA	long jump men
+1948	Olga Gyarmati	HUN	long jump women
+1948	Delfo Cabrera	ARG	marathon men
+1948	Owen Guinn Smith	USA	pole vault men
+1948	Wilbur Marvin Thompson	USA	shot put men
+1948	Micheline Ostermeyer	FRA	shot put women
+1948	Arne Ahman	SWE	triple jump men
+1952	Emil Zatopek	TCH	10000m men
+1952	John Mikaelsson	SWE	10000m walk men
+1952	Lindy Remigino	USA	100m men
+1952	Marjorie Jackson	AUS	100m women
+1952	Harrison Dillard	USA	110m hurdles men
+1952	Joseph Barthel	LUX	1500m men
+1952	Andrew William Stanfield	USA	200m men
+1952	Marjorie Jackson	AUS	200m women
+1952	Horace III Ashenfelter	USA	3000m steeplechase men
+1952	Vincent George Rhoden	JAM	400m men
+1952	Charles Hewes Jr. Moore	USA	400m hurdles men
+1952	Harrison Dillard	USA	4x100m relay men
+1952	Lindy Remigino	USA	4x100m relay men
+1952	Finis Dean Smith	USA	4x100m relay men
+1952	Andrew William Stanfield	USA	4x100m relay men
+1952	Mae Heriwentha Faggs	USA	4x100m relay women
+1952	Catherine Hardy	USA	4x100m relay women
+1952	Barbara Pearl Jones	USA	4x100m relay women
+1952	Janet Theresa Moreau	USA	4x100m relay women
+1952	Leslie Laing	JAM	4x400m relay men
+1952	Herbert Mckenley	JAM	4x400m relay men
+1952	Vincent George Rhoden	JAM	4x400m relay men
+1952	Arthur Wint	JAM	4x400m relay men
+1952	Emil Zatopek	TCH	5000m men
+1952	Giuseppe Dordoni	ITA	50km walk men
+1952	Malvin Groston Whitfield	USA	800m men
+1952	Shirley Strickland-De La Hunty	AUS	80m hurdles women
+1952	Robert Mathias	USA	decathlon men
+1952	Simeon Garland Iness	USA	discus throw men
+1952	Nina Romashkova-Ponomareva	URS	discus throw women
+1952	Jozsef Csermak	HUN	hammer throw men
+1952	Walter Francis Davis	USA	high jump men
+1952	Esther Cornelia Brand	RSA	high jump women
+1952	Cyrus C. Jr. Young	USA	javelin throw men
+1952	Dana Ingrova-Zatopkova	TCH	javelin throw women
+1952	Jerome Cousins Biffle	USA	long jump men
+1952	Yvette Winefred Williams	NZL	long jump women
+1952	Emil Zatopek	TCH	marathon men
+1952	Robert Richards	USA	pole vault men
+1952	William Patrick Jr. O	USA	shot put men
+1952	Galina Zybina	URS	shot put women
+1952	Adhemar Ferreira Da Silva	BRA	triple jump men
+1956	Vladimir Kuts	URS	10000m men
+1956	Robert Joseph Morrow	USA	100m men
+1956	Betty Cuthbert	AUS	100m women
+1956	Lee Calhoun	USA	110m hurdles men
+1956	Ronald Michael Delany	IRL	1500m men
+1956	Robert Joseph Morrow	USA	200m men
+1956	Betty Cuthbert	AUS	200m women
+1956	Leonid Spirin	URS	20km walk men
+1956	Christopher William Brasher	GBR	3000m steeplechase men
+1956	Charles Lamont Jenkins	USA	400m men
+1956	Glenn Ashby Davis	USA	400m hurdles men
+1956	Walter Thane Baker	USA	4x100m relay men
+1956	Leamon King	USA	4x100m relay men
+1956	Robert Joseph Morrow	USA	4x100m relay men
+1956	Ira James Murchison	USA	4x100m relay men
+1956	Norma Wilson Crooker-Fleming	AUS	4x100m relay women
+1956	Betty Cuthbert	AUS	4x100m relay women
+1956	Fluer Northey Mellor-Wenham	AUS	4x100m relay women
+1956	Shirley Strickland-De La Hunty	AUS	4x100m relay women
+1956	Thomas William Courtney	USA	4x400m relay men
+1956	Charles Lamont Jenkins	USA	4x400m relay men
+1956	Louis Woodard III Jones	USA	4x400m relay men
+1956	Jesse William Mashburn	USA	4x400m relay men
+1956	Vladimir Kuts	URS	5000m men
+1956	Norman Richard Read	NZL	50km walk men
+1956	Thomas William Courtney	USA	800m men
+1956	Shirley Strickland-De La Hunty	AUS	80m hurdles women
+1956	Milton Gray Campbell	USA	decathlon men
+1956	Alfred Oerter	USA	discus throw men
+1956	Olga Fikotova-Connolly	TCH	discus throw women
+1956	Harold Vincent Connolly	USA	hammer throw men
+1956	Charles Everett Dumas	USA	high jump men
+1956	Mildred Louise Mcdaniel	USA	high jump women
+1956	Egil Danielsen	NOR	javelin throw men
+1956	Inese Yaunzeme	URS	javelin throw women
+1956	Gregory Curtis Bell	USA	long jump men
+1956	Elzbieta Dunska-Krzesinska	POL	long jump women
+1956	Alain Mimoun	FRA	marathon men
+1956	Robert Richards	USA	pole vault men
+1956	William Patrick Jr. O	USA	shot put men
+1956	Tamara Tyshkevich	URS	shot put women
+1956	Adhemar Ferreira Da Silva	BRA	triple jump men
+1960	Pyotr Bolotnikov	URS	10000m men
+1960	Armin Hary	EUA	100m men
+1960	Wilma Rudolph	USA	100m women
+1960	Lee Calhoun	USA	110m hurdles men
+1960	Herbert Elliott	AUS	1500m men
+1960	Livio Berruti	ITA	200m men
+1960	Wilma Rudolph	USA	200m women
+1960	Vladimir Golubnichy	URS	20km walk men
+1960	Zdzislaw Krzyszkowiak	POL	3000m steeplechase men
+1960	Otis Crandall Davis	USA	400m men
+1960	Glenn Ashby Davis	USA	400m hurdles men
+1960	Bernd Cullmann	EUA	4x100m relay men
+1960	Armin Hary	EUA	4x100m relay men
+1960	Martin Lauer	EUA	4x100m relay men
+1960	Walter Mahlendorf	EUA	4x100m relay men
+1960	Martha B. Hudson	USA	4x100m relay women
+1960	Barbara Pearl Jones	USA	4x100m relay women
+1960	Wilma Rudolph	USA	4x100m relay women
+1960	Lucinda Williams	USA	4x100m relay women
+1960	Glenn Ashby Davis	USA	4x400m relay men
+1960	Otis Crandall Davis	USA	4x400m relay men
+1960	John Lloyd Yerman	USA	4x400m relay men
+1960	Earl Verdelle Young	USA	4x400m relay men
+1960	Murray Gordon Halberg	NZL	5000m men
+1960	Donald James Thompson	GBR	50km walk men
+1960	Peter Snell	NZL	800m men
+1960	Lyudmila Lisenko-Shevtsova	URS	800m women
+1960	Iryna Press	URS	80m hurdles women
+1960	Rafer Lewis Johnson	USA	decathlon men
+1960	Alfred Oerter	USA	discus throw men
+1960	Nina Romashkova-Ponomareva	URS	discus throw women
+1960	Vasili Rudenkov	URS	hammer throw men
+1960	Robert Shavlakadze	URS	high jump men
+1960	Iolanda Balas	ROU	high jump women
+1960	Viktor Tsybulenko	URS	javelin throw men
+1960	Elvira Ozolina	URS	javelin throw women
+1960	Ralph Harold Boston	USA	long jump men
+1960	Vera Kolashnikova-Krepkina	URS	long jump women
+1960	Abebe Bikila	ETH	marathon men
+1960	Donald George Bragg	USA	pole vault men
+1960	William Henry Nieder	USA	shot put men
+1960	Tamara Press	URS	shot put women
+1960	Jozef Schmidt	POL	triple jump men
+1964	William Mills	USA	10000m men
+1964	Robert Hayes	USA	100m men
+1964	Wyomia Tyus	USA	100m women
+1964	Hayes Jones	USA	110m hurdles men
+1964	Peter Snell	NZL	1500m men
+1964	Henry Carr	USA	200m men
+1964	Edith Marie Mcguire	USA	200m women
+1964	Kenneth Joseph Matthews	GBR	20km walk men
+1964	Gaston Roelants	BEL	3000m steeplechase men
+1964	Michael Denny Larrabee	USA	400m men
+1964	Betty Cuthbert	AUS	400m women
+1964	Warren (Rex) Jay Cawley	USA	400m hurdles men
+1964	Gerald Howard Ashworth	USA	4x100m relay men
+1964	Otis Paul Drayton	USA	4x100m relay men
+1964	Robert Hayes	USA	4x100m relay men
+1964	Richard Vaughn Stebbins	USA	4x100m relay men
+1964	Halina Herrmann-Gorecka-Richter	POL	4x100m relay women
+1964	Ewa Klobukowska	POL	4x100m relay women
+1964	Irena Szewinska	POL	4x100m relay women
+1964	Teresa Barbara Wieczorek-Cieply	POL	4x100m relay women
+1964	Henry Carr	USA	4x400m relay men
+1964	Ollan Conley Cassell	USA	4x400m relay men
+1964	Michael Denny Larrabee	USA	4x400m relay men
+1964	Ulis C. Williams	USA	4x400m relay men
+1964	Robert Keyser Schul	USA	5000m men
+1964	Abdon Pamich	ITA	50km walk men
+1964	Peter Snell	NZL	800m men
+1964	Ann Elizabeth Packer	GBR	800m women
+1964	Karin Richert-Balzer	EUA	80m hurdles women
+1964	Willi Holdorf	EUA	decathlon men
+1964	Alfred Oerter	USA	discus throw men
+1964	Tamara Press	URS	discus throw women
+1964	Romuald Klim	URS	hammer throw men
+1964	Valeri Brumel	URS	high jump men
+1964	Iolanda Balas	ROU	high jump women
+1964	Pauli Lauri Nevala	FIN	javelin throw men
+1964	Mihaela Penes	ROU	javelin throw women
+1964	Lynn Davies	GBR	long jump men
+1964	Mary Denise Bignal-Rand	GBR	long jump women
+1964	Abebe Bikila	ETH	marathon men
+1964	Iryna Press	URS	pentathlon women
+1964	Frederick Morgan Hansen	USA	pole vault men
+1964	Dallas Crutcher III Long	USA	shot put men
+1964	Tamara Press	URS	shot put women
+1964	Jozef Schmidt	POL	triple jump men
+1968	Nabiba Naftali Temu	KEN	10000m men
+1968	James Ray Hines	USA	100m men
+1968	Wyomia Tyus	USA	100m women
+1968	Willie Davenport	USA	110m hurdles men
+1968	Kipchoge Keino	KEN	1500m men
+1968	Thomas C. Smith	USA	200m men
+1968	Irena Szewinska	POL	200m women
+1968	Vladimir Golubnichy	URS	20km walk men
+1968	Amos Kipwabok Biwott	KEN	3000m steeplechase men
+1968	Lee Edward Evans	USA	400m men
+1968	Colette Besson	FRA	400m women
+1968	David Peter Hemery	GBR	400m hurdles men
+1968	Charles Edward Greene	USA	4x100m relay men
+1968	James Ray Hines	USA	4x100m relay men
+1968	Melvin Jr. Pender	USA	4x100m relay men
+1968	Ronald Ray Smith	USA	4x100m relay men
+1968	Margaret Johnson Bailes	USA	4x100m relay women
+1968	Barbara Ann Ferrell	USA	4x100m relay women
+1968	Mildrette Netter	USA	4x100m relay women
+1968	Wyomia Tyus	USA	4x100m relay women
+1968	Lee Edward Evans	USA	4x400m relay men
+1968	Ronald John III Freeman	USA	4x400m relay men
+1968	George Lawrence James	USA	4x400m relay men
+1968	Vincent Edward Matthews	USA	4x400m relay men
+1968	Mohamed Gammoudi	TUN	5000m men
+1968	Christoph Höhne	GDR	50km walk men
+1968	Ralph Doubell	AUS	800m men
+1968	Madeline Manning-Jackson	USA	800m women
+1968	Maureen Caird	AUS	80m hurdles women
+1968	William Anthony Toomey	USA	decathlon men
+1968	Alfred Oerter	USA	discus throw men
+1968	Lia Manoliu	ROU	discus throw women
+1968	Gyula Zsivotzky	HUN	hammer throw men
+1968	Richard Douglas Fosbury	USA	high jump men
+1968	Miloslava Rezkova-Hubner	TCH	high jump women
+1968	Yanis Lusis	URS	javelin throw men
+1968	Angela Nemeth-Ranky	HUN	javelin throw women
+1968	Bob Beamon	USA	long jump men
+1968	Viorica Viscopoleanu	ROU	long jump women
+1968	Mamo Wolde	ETH	marathon men
+1968	Ingrid Becker-Mickler	FRG	pentathlon women
+1968	Robert Lloyd Seagren	USA	pole vault men
+1968	James Randel Matson	USA	shot put men
+1968	Margitta Helmbold-Gummel	GDR	shot put women
+1968	Viktor Saneev	URS	triple jump men
+1972	Lasse Viren	FIN	10000m men
+1972	Valery Borzov	URS	100m men
+1972	Renate Stecher	GDR	100m women
+1972	Annelie Ehrhardt	GDR	100m hurdles women
+1972	Rodney Jr. Milburn	USA	110m hurdles men
+1972	Pekka Vasala	FIN	1500m men
+1972	Lyudmila Bragina	URS	1500m women
+1972	Valery Borzov	URS	200m men
+1972	Renate Stecher	GDR	200m women
+1972	Peter Frenkel	GDR	20km walk men
+1972	Kipchoge Keino	KEN	3000m steeplechase men
+1972	Vincent Edward Matthews	USA	400m men
+1972	Monika Zehrt	GDR	400m women
+1972	John Akii-Bua	UGA	400m hurdles men
+1972	Lawrence J. Black	USA	4x100m relay men
+1972	Edward James Hart	USA	4x100m relay men
+1972	Robert Taylor	USA	4x100m relay men
+1972	Gerald A. Tinker	USA	4x100m relay men
+1972	Ingrid Becker-Mickler	FRG	4x100m relay women
+1972	Christiane Krause	FRG	4x100m relay women
+1972	Annegret Richter-Irrgang	FRG	4x100m relay women
+1972	Heidemarie Rosendahl	FRG	4x100m relay women
+1972	Charles Asati	KEN	4x400m relay men
+1972	Hezekiah Munyoro Nyamau	KEN	4x400m relay men
+1972	Robert Ouko	KEN	4x400m relay men
+1972	Julius Sang	KEN	4x400m relay men
+1972	Dagmar Käsling	GDR	4x400m relay women
+1972	Rita Kühne	GDR	4x400m relay women
+1972	Helga Seidler	GDR	4x400m relay women
+1972	Monika Zehrt	GDR	4x400m relay women
+1972	Lasse Viren	FIN	5000m men
+1972	Bernd Kannenberg	FRG	50km walk men
+1972	David James Wottle	USA	800m men
+1972	Hildegard Falck-Janze	FRG	800m women
+1972	Nikolai Avilov	URS	decathlon men
+1972	Ludvik Danek	TCH	discus throw men
+1972	Faina Melnik	URS	discus throw women
+1972	Anatoli Bondarchuk	URS	hammer throw men
+1972	Yuri Tarmak	URS	high jump men
+1972	Ulrike Meyfarth	FRG	high jump women
+1972	Klaus Wolfermann	FRG	javelin throw men
+1972	Ruth Fuchs	GDR	javelin throw women
+1972	Randel Luvelle Williams	USA	long jump men
+1972	Heidemarie Rosendahl	FRG	long jump women
+1972	Frank Charles Shorter	USA	marathon men
+1972	Mary Peters	GBR	pentathlon women
+1972	Wolfgang Nordwig	GDR	pole vault men
+1972	Wladyslaw Komar	POL	shot put men
+1972	Nadezhda Chizhova	URS	shot put women
+1972	Viktor Saneev	URS	triple jump men
+1976	Lasse Viren	FIN	10000m men
+1976	Hasely Crawford	TRI	100m men
+1976	Annegret Richter-Irrgang	FRG	100m women
+1976	Johanna Schaller-Klier	GDR	100m hurdles women
+1976	Guy Drut	FRA	110m hurdles men
+1976	John Walker	NZL	1500m men
+1976	Tatiana Kazankina	URS	1500m women
+1976	Donald Quarrie	JAM	200m men
+1976	Bärbel Eckert-Wöckel	GDR	200m women
+1976	Daniel Bautista rocha	MEX	20km walk men
+1976	Anders Garderud	SWE	3000m steeplechase men
+1976	Alberto Juantorena	CUB	400m men
+1976	Irena Szewinska	POL	400m women
+1976	Edwin Moses	USA	400m hurdles men
+1976	Harvey Edward Glance	USA	4x100m relay men
+1976	Millard Frank Jr. Hampton	USA	4x100m relay men
+1976	John Wesley Jones	USA	4x100m relay men
+1976	Steven Earl Riddick	USA	4x100m relay men
+1976	Carla Bodendorf	GDR	4x100m relay women
+1976	Bärbel Eckert-Wöckel	GDR	4x100m relay women
+1976	Marlies Oelsner-Göhr	GDR	4x100m relay women
+1976	Renate Stecher	GDR	4x100m relay women
+1976	Benjamin Gene Brown	USA	4x400m relay men
+1976	Herman Ronald Frazier	USA	4x400m relay men
+1976	Frederick Vaughn Newhouse	USA	4x400m relay men
+1976	Maxwell Lander Parks	USA	4x400m relay men
+1976	Christina Brehmer-Lathan	GDR	4x400m relay women
+1976	Doris Maletzki	GDR	4x400m relay women
+1976	Brigitte Rohde	GDR	4x400m relay women
+1976	Ellen Stropahl-Streidt	GDR	4x400m relay women
+1976	Lasse Viren	FIN	5000m men
+1976	Alberto Juantorena	CUB	800m men
+1976	Tatiana Kazankina	URS	800m women
+1976	William Bruce Jenner	USA	decathlon men
+1976	Malcolm Maurice Wilkins	USA	discus throw men
+1976	Evelin Schlaak-Jahl	GDR	discus throw women
+1976	Yuri Sedykh	URS	hammer throw men
+1976	Jacek Wszola	POL	high jump men
+1976	Rosemarie Witschas-Ackermann	GDR	high jump women
+1976	Miklos Nemeth	HUN	javelin throw men
+1976	Ruth Fuchs	GDR	javelin throw women
+1976	Arnie Robinson	USA	long jump men
+1976	Angela Voigt	GDR	long jump women
+1976	Waldemar Cierpinski	GDR	marathon men
+1976	Siegrun Siegl	GDR	pentathlon women
+1976	Tadeusz Slusarski	POL	pole vault men
+1976	Udo Beyer	GDR	shot put men
+1976	Ivanka Mikailova Christova-Todorova	BUL	shot put women
+1976	Viktor Saneev	URS	triple jump men
+1980	Miruts Yifter	ETH	10000m men
+1980	Allan Wells	GBR	100m men
+1980	Liudmila Kondratieva	URS	100m women
+1980	Vera Komisova	URS	100m hurdles women
+1980	Thomas Munkelt	GDR	110m hurdles men
+1980	Sebastian Coe	GBR	1500m men
+1980	Tatiana Kazankina	URS	1500m women
+1980	Pietro Mennea	ITA	200m men
+1980	Bärbel Eckert-Wöckel	GDR	200m women
+1980	Maurizio Damilano	ITA	20km walk men
+1980	Bronislaw Malinowski	POL	3000m steeplechase men
+1980	Viktor Markin	URS	400m men
+1980	Marita Koch	GDR	400m women
+1980	Volker Beck	GDR	400m hurdles men
+1980	Aleksandr Aksinin	URS	4x100m relay men
+1980	Vladimir Muravyov	URS	4x100m relay men
+1980	Andrei Prokofiev	URS	4x100m relay men
+1980	Nikolai Sidorov	URS	4x100m relay men
+1980	Ingrid Auerswald-Lange	GDR	4x100m relay women
+1980	Bärbel Eckert-Wöckel	GDR	4x100m relay women
+1980	Romy Müller	GDR	4x100m relay women
+1980	Marlies Oelsner-Göhr	GDR	4x100m relay women
+1980	Nikolai Chernetski	URS	4x400m relay men
+1980	Mikhail Linge	URS	4x400m relay men
+1980	Viktor Markin	URS	4x400m relay men
+1980	Remigius Valiulis	URS	4x400m relay men
+1980	Tatiana Goishchik	URS	4x400m relay women
+1980	Irina Nazarova	URS	4x400m relay women
+1980	Tatiana Prorochenko	URS	4x400m relay women
+1980	Nina Ziuskova	URS	4x400m relay women
+1980	Miruts Yifter	ETH	5000m men
+1980	Hartwig Gauder	GDR	50km walk men
+1980	Steve Ovett	GBR	800m men
+1980	Nadezhda Olizarenko	URS	800m women
+1980	Daley Thompson	GBR	decathlon men
+1980	Viktor Rashchupkin	URS	discus throw men
+1980	Evelin Schlaak-Jahl	GDR	discus throw women
+1980	Yuri Sedykh	URS	hammer throw men
+1980	Gerd Wessig	GDR	high jump men
+1980	Sara Simeoni	ITA	high jump women
+1980	Dainis Kula	URS	javelin throw men
+1980	Maria Colon	CUB	javelin throw women
+1980	Lutz Dombrowski	GDR	long jump men
+1980	Tatiana Kolpakova	URS	long jump women
+1980	Waldemar Cierpinski	GDR	marathon men
+1980	Nadezhda Tkachenko	URS	pentathlon women
+1980	Wladyslaw Kozakiewicz	POL	pole vault men
+1980	Vladimir Kiselev	URS	shot put men
+1980	Ilona Schoknecht-Slupianek	GDR	shot put women
+1980	Yaak Uudmae	URS	triple jump men
+1984	Alberto Cova	ITA	10000m men
+1984	Carl Lewis	USA	100m men
+1984	Evelyn Ashford	USA	100m women
+1984	Benita Fitzgerald-Brown	USA	100m hurdles women
+1984	Roger Kingdom	USA	110m hurdles men
+1984	Sebastian Coe	GBR	1500m men
+1984	Gabriella Dorio	ITA	1500m women
+1984	Carl Lewis	USA	200m men
+1984	Valerie Ann Brisco-Hooks	USA	200m women
+1984	Ernesto Canto gudino	MEX	20km walk men
+1984	Maricica Puica	ROU	3000m women
+1984	Julius Korir	KEN	3000m steeplechase men
+1984	Alonzo C. Babers	USA	400m men
+1984	Valerie Ann Brisco-Hooks	USA	400m women
+1984	Edwin Moses	USA	400m hurdles men
+1984	Nawal El moutawakel	MAR	400m hurdles women
+1984	Ronald James Brown	USA	4x100m relay men
+1984	Samuel Louis Graddy	USA	4x100m relay men
+1984	Carl Lewis	USA	4x100m relay men
+1984	Calvin Smith	USA	4x100m relay men
+1984	Evelyn Ashford	USA	4x100m relay women
+1984	Jeanette Bolden	USA	4x100m relay women
+1984	Alice Regina Brown	USA	4x100m relay women
+1984	Chandra Danette Cheeseborough	USA	4x100m relay women
+1984	Raymond Armstead	USA	4x400m relay men
+1984	Alonzo C. Babers	USA	4x400m relay men
+1984	Antonio Ricardo Mckay	USA	4x400m relay men
+1984	Sunder L. Nix	USA	4x400m relay men
+1984	Valerie Ann Brisco-Hooks	USA	4x400m relay women
+1984	Chandra Danette Cheeseborough	USA	4x400m relay women
+1984	Sherryl Frances Howard	USA	4x400m relay women
+1984	Lillie Mae Leatherwood-King	USA	4x400m relay women
+1984	Said Aouita	MAR	5000m men
+1984	Raul Gonzalez	MEX	50km walk men
+1984	Joaquim Cruz	BRA	800m men
+1984	Doina Besliu-Melinte	ROU	800m women
+1984	Daley Thompson	GBR	decathlon men
+1984	Rolf Danneberg	FRG	discus throw men
+1984	Ria G. Stalman	NED	discus throw women
+1984	Juha Tiainen	FIN	hammer throw men
+1984	Glyniss Leanne Nunn-Saunders-Cearns	AUS	heptathlon women
+1984	Dietmar Mögenburg	FRG	high jump men
+1984	Ulrike Meyfarth	FRG	high jump women
+1984	Arto Harkonen	FIN	javelin throw men
+1984	Teresa Sanderson	GBR	javelin throw women
+1984	Carl Lewis	USA	long jump men
+1984	Anisoara Cusmir-Stanciu	ROU	long jump women
+1984	Carlos Lopes	POR	marathon men
+1984	Joan Benoit	USA	marathon women
+1984	Pierre Quinon	FRA	pole vault men
+1984	Alessandro Andrei	ITA	shot put men
+1984	Claudia Losch	FRG	shot put women
+1984	Alfredrick Alphonzo Joyner	USA	triple jump men
+1988	Moulay Brahim Boutayeb	MAR	10000m men
+1988	Olga Bondarenko	URS	10000m women
+1988	Carl Lewis	USA	100m men
+1988	Florence Griffith-Joyner	USA	100m women
+1988	Yordanka Donkova	BUL	100m hurdles women
+1988	Roger Kingdom	USA	110m hurdles men
+1988	Peter Rono	KEN	1500m men
+1988	Paula Ivan	ROU	1500m women
+1988	Joseph Nathaniel Jr. Deloach	USA	200m men
+1988	Florence Griffith-Joyner	USA	200m women
+1988	Jozef Pribilinec	TCH	20km walk men
+1988	Tatyana Samolenko-Dorovskikh	URS	3000m women
+1988	Julius Kariuki	KEN	3000m steeplechase men
+1988	Steve Lewis	USA	400m men
+1988	Olga Bryzgina	URS	400m women
+1988	Andre Lamar Phillips	USA	400m hurdles men
+1988	Deborah Flintoff-King	AUS	400m hurdles women
+1988	Viktor Bryzgin	URS	4x100m relay men
+1988	Vladimir Krylov	URS	4x100m relay men
+1988	Vladimir Muravyov	URS	4x100m relay men
+1988	Vitaly Savin	URS	4x100m relay men
+1988	Evelyn Ashford	USA	4x100m relay women
+1988	Alice Regina Brown	USA	4x100m relay women
+1988	Sheila Echols	USA	4x100m relay women
+1988	Florence Griffith-Joyner	USA	4x100m relay women
+1988	Daniel Everett	USA	4x400m relay men
+1988	Steve Lewis	USA	4x400m relay men
+1988	Harry Butch . Reynolds	USA	4x400m relay men
+1988	Kevin Bernard Robinzine	USA	4x400m relay men
+1988	Olga Bryzgina	URS	4x400m relay women
+1988	Tatiana Ledovskaya	URS	4x400m relay women
+1988	Olga Nazarova	URS	4x400m relay women
+1988	Mariya Pinigina	URS	4x400m relay women
+1988	John Ngugi	KEN	5000m men
+1988	Vyacheslav Ivanenko	URS	50km walk men
+1988	Paul Ereng	KEN	800m men
+1988	Sigrun Wodars	GDR	800m women
+1988	Christian Schenk	GDR	decathlon men
+1988	Jürgen Schult	GDR	discus throw men
+1988	Martina Hellmann	GDR	discus throw women
+1988	Sergei Litvinov	URS	hammer throw men
+1988	Jackie Joyner-Kersee	USA	heptathlon women
+1988	Gennadi Avdeenko	URS	high jump men
+1988	Dorothy Louise Ritter	USA	high jump women
+1988	Tapio Korjus	FIN	javelin throw men
+1988	Petra Felke-Meier	GDR	javelin throw women
+1988	Carl Lewis	USA	long jump men
+1988	Jackie Joyner-Kersee	USA	long jump women
+1988	Gelindo Bordin	ITA	marathon men
+1988	Rosa Mota	POR	marathon women
+1988	Sergey Bubka	URS	pole vault men
+1988	Ulf Timmermann	GDR	shot put men
+1988	Natalya Lisovskaya	URS	shot put women
+1988	Kristo Gantchev Markov	BUL	triple jump men
+1992	Khalid Skah	MAR	10000m men
+1992	Derartu Tulu	ETH	10000m women
+1992	Yueling Chen	CHN	10000m walk women
+1992	Linford Christie	GBR	100m men
+1992	Gail Devers	USA	100m women
+1992	Paraskevi Voula Patoulidou	GRE	100m hurdles women
+1992	Mark Mckoy	CAN	110m hurdles men
+1992	Fermin Cacho ruiz	ESP	1500m men
+1992	Hassiba Boulmerka	ALG	1500m women
+1992	Michael Marsh	USA	200m men
+1992	Gwen Torrence	USA	200m women
+1992	Daniel Plaza montero	ESP	20km walk men
+1992	Elena Romanova	EUN	3000m women
+1992	Mathew Birir	KEN	3000m steeplechase men
+1992	Quincy Watts	USA	400m men
+1992	Marie-Jose Perec	FRA	400m women
+1992	Kevin Curtis Young	USA	400m hurdles men
+1992	Sally Janet Jane Gunnell	GBR	400m hurdles women
+1992	Leroy Burrell	USA	4x100m relay men
+1992	James Jett	USA	4x100m relay men
+1992	Carl Lewis	USA	4x100m relay men
+1992	Michael Marsh	USA	4x100m relay men
+1992	Dennis Mitchell	USA	4x100m relay men
+1992	Evelyn Ashford	USA	4x100m relay women
+1992	Michelle Finn	USA	4x100m relay women
+1992	Carlette D. Guidry-White	USA	4x100m relay women
+1992	Esther Jones	USA	4x100m relay women
+1992	Gwen Torrence	USA	4x100m relay women
+1992	Darnell Hall	USA	4x400m relay men
+1992	Charles L. Jenkins	USA	4x400m relay men
+1992	Michael Johnson	USA	4x400m relay men
+1992	Steve Lewis	USA	4x400m relay men
+1992	Andrew Valmon	USA	4x400m relay men
+1992	Quincy Watts	USA	4x400m relay men
+1992	Olga Bryzgina	EUN	4x400m relay women
+1992	Marina Chmonina	EUN	4x400m relay women
+1992	Lioudmila Djigalova	EUN	4x400m relay women
+1992	Olga Nazarova	EUN	4x400m relay women
+1992	Lilia Nurutdinova	EUN	4x400m relay women
+1992	Yelena Rouzina	EUN	4x400m relay women
+1992	Dieter Baumann	GER	5000m men
+1992	Andrey Perlov	EUN	50km walk men
+1992	William Tanui	KEN	800m men
+1992	Ellen Van langen	NED	800m women
+1992	Robert Zmelik	TCH	decathlon men
+1992	Romas Ubartas	LTU	discus throw men
+1992	Maritza Marten	CUB	discus throw women
+1992	Andrey Abduvaliev	EUN	hammer throw men
+1992	Jackie Joyner-Kersee	USA	heptathlon women
+1992	Javier Sotomayor	CUB	high jump men
+1992	Heike Henkel	GER	high jump women
+1992	Jan Zelezny	TCH	javelin throw men
+1992	Silke Renk	GER	javelin throw women
+1992	Carl Lewis	USA	long jump men
+1992	Heike Drechsler	GER	long jump women
+1992	Young-Cho Hwang	KOR	marathon men
+1992	Valentina Yegorova	EUN	marathon women
+1992	Maksim Tarasov	EUN	pole vault men
+1992	Michael D. Stulce	USA	shot put men
+1992	Svetlana Krivelyova	EUN	shot put women
+1992	Mike Conley	USA	triple jump men
+1996	Haile Gebrselassie	ETH	10000m men
+1996	Fernanda Ribeiro	POR	10000m women
+1996	Yelena Nikolayeva	RUS	10000m walk women
+1996	Donovan Bailey	CAN	100m men
+1996	Gail Devers	USA	100m women
+1996	Ludmila Engquist	SWE	100m hurdles women
+1996	Allen Johnson	USA	110m hurdles men
+1996	Nourredine Morceli	ALG	1500m men
+1996	Svetlana Masterkova	RUS	1500m women
+1996	Michael Johnson	USA	200m men
+1996	Marie-Jose Perec	FRA	200m women
+1996	Jefferson Perez	ECU	20km walk men
+1996	Joseph Keter	KEN	3000m steeplechase men
+1996	Michael Johnson	USA	400m men
+1996	Marie-Jose Perec	FRA	400m women
+1996	Derrick Adkins	USA	400m hurdles men
+1996	Deon Marie Hemmings	JAM	400m hurdles women
+1996	Donovan Bailey	CAN	4x100m relay men
+1996	Carlton Chambers	CAN	4x100m relay men
+1996	Robert Esmie	CAN	4x100m relay men
+1996	Glenroy Gilbert	CAN	4x100m relay men
+1996	Bruny Surin	CAN	4x100m relay men
+1996	Gail Devers	USA	4x100m relay women
+1996	Chryste Gaines	USA	4x100m relay women
+1996	Carlette D. Guidry-White	USA	4x100m relay women
+1996	Inger Miller	USA	4x100m relay women
+1996	Gwen Torrence	USA	4x100m relay women
+1996	Alvin Harrison	USA	4x400m relay men
+1996	Anthuan Maybank	USA	4x400m relay men
+1996	Derek Mills	USA	4x400m relay men
+1996	Jason Rouser	USA	4x400m relay men
+1996	Lamont Smith	USA	4x400m relay men
+1996	Kim Graham	USA	4x400m relay women
+1996	Maicel Malone	USA	4x400m relay women
+1996	Jearl Miles	USA	4x400m relay women
+1996	Rochelle Stevens	USA	4x400m relay women
+1996	Linetta Wilson	USA	4x400m relay women
+1996	Venuste Niyongabo	BDI	5000m men
+1996	Junxia Wang	CHN	5000m women
+1996	Robert Korzeniowski	POL	50km walk men
+1996	Vebjorn Rodal	NOR	800m men
+1996	Svetlana Masterkova	RUS	800m women
+1996	Dan O'brien	USA	decathlon men
+1996	Lars Riedel	GER	discus throw men
+1996	Ilke Wyludda	GER	discus throw women
+1996	Balazs Kiss	HUN	hammer throw men
+1996	Ghada Shouaa	SYR	heptathlon women
+1996	Charles Austin	USA	high jump men
+1996	Stefka Kostadinova	BUL	high jump women
+1996	Jan Zelezny	CZE	javelin throw men
+1996	Heli Orvokki Rantanen	FIN	javelin throw women
+1996	Carl Lewis	USA	long jump men
+1996	Chioma Ajunwa	NGR	long jump women
+1996	Josia Thugwane	RSA	marathon men
+1996	Fatuma Roba	ETH	marathon women
+1996	Jean Galfione	FRA	pole vault men
+1996	Eric Randolph Barnes	USA	shot put men
+1996	Astrid Kumbernuss	GER	shot put women
+1996	Kenny Harrison	USA	triple jump men
+1996	Inessa Kravets	UKR	triple jump women
+2000	Haile Gebrselassie	ETH	10000m men
+2000	Derartu Tulu	ETH	10000m women
+2000	Maurice Greene	USA	100m men
+2000	Olga Shishigina	KAZ	100m hurdles women
+2000	Anier Garcia	CUB	110m hurdles men
+2000	Noah Kiprono Ngenyi	KEN	1500m men
+2000	Nouria Merah-Benida	ALG	1500m women
+2000	Konstantinos Kenteris	GRE	200m men
+2000	Pauline Elaine Davis	BAH	200m women
+2000	Liping Wang	CHN	20km race walk women
+2000	Robert Korzeniowski	POL	20km walk men
+2000	Reuben Kosgei	KEN	3000m steeplechase men
+2000	Michael Johnson	USA	400m men
+2000	Cathy Freeman	AUS	400m women
+2000	Angelo Taylor	USA	400m hurdles men
+2000	Irina Privalova	RUS	400m hurdles women
+2000	Kenneth Brokenburr	USA	4x100m relay men
+2000	Jon Drummond	USA	4x100m relay men
+2000	Maurice Greene	USA	4x100m relay men
+2000	Brian Lewis	USA	4x100m relay men
+2000	Tim Montgomery	USA	4x100m relay men
+2000	Bernard Williams iii	USA	4x100m relay men
+2000	Pauline Elaine Davis	BAH	4x100m relay women
+2000	Debbie Ferguson-Mckenzie	BAH	4x100m relay women
+2000	Sevatheda Fynes	BAH	4x100m relay women
+2000	Eldice Lewis	BAH	4x100m relay women
+2000	Chandra Sturrup	BAH	4x100m relay women
+2000	Andrea Anderson	USA	4x400m relay women
+2000	LaTasha Colander	USA	4x400m relay women
+2000	Monique Hennagan	USA	4x400m relay women
+2000	Jearl Miles	USA	4x400m relay women
+2000	Millon Wolde	ETH	5000m men
+2000	Gabriela Szabo	ROU	5000m women
+2000	Robert Korzeniowski	POL	50km walk men
+2000	Nils Schumann	GER	800m men
+2000	Maria Mutola	MOZ	800m women
+2000	Erki Nool	EST	decathlon men
+2000	Virgilijus Alekna	LTU	discus throw men
+2000	Ellina Zvereva	BLR	discus throw women
+2000	Szymon Ziolkowski	POL	hammer throw men
+2000	Kamila Skolimowska	POL	hammer throw women
+2000	Denise Lewis	GBR	heptathlon women
+2000	Sergey Kliugin	RUS	high jump men
+2000	Yelena Yelesina	RUS	high jump women
+2000	Jan Zelezny	CZE	javelin throw men
+2000	Trine Hattestad	NOR	javelin throw women
+2000	Ivan Pedroso	CUB	long jump men
+2000	Heike Drechsler	GER	long jump women
+2000	Gezahegne Abera	ETH	marathon men
+2000	Naoko Takahashi	JPN	marathon women
+2000	Nick Hysong	USA	pole vault men
+2000	Stacy Dragila	USA	pole vault women
+2000	Arsi Harju	FIN	shot put men
+2000	Yanina Karolchik	BLR	shot put women
+2000	Jonathan David Edwards	GBR	triple jump men
+2000	Tereza Marinova	BUL	triple jump women
+2004	Kenenisa Bekele	ETH	10000m men
+2004	Huina Xing	CHN	10000m women
+2004	Justin Gatlin	USA	100m men
+2004	Yuliya Nesterenko	BLR	100m women
+2004	Joanna Hayes	USA	100m hurdles women
+2004	Xiang Liu	CHN	110m hurdles men
+2004	Hicham El guerrouj	MAR	1500m men
+2004	Kelly Holmes	GBR	1500m women
+2004	Shawn Crawford	USA	200m men
+2004	Veronica Campbell-Brown	JAM	200m women
+2004	Athanasia Tsoumeleka	GRE	20km race walk women
+2004	Ivano Brugnetti	ITA	20km walk men
+2004	Ezekiel Kemboi	KEN	3000m steeplechase men
+2004	Jeremy Wariner	USA	400m men
+2004	Tonique Williams-Darling	BAH	400m women
+2004	Felix Sanchez	DOM	400m hurdles men
+2004	Fani Chalkia	GRE	400m hurdles women
+2004	Darren Campbell	GBR	4x100m relay men
+2004	Marlon Devonish	GBR	4x100m relay men
+2004	Jason Gardener	GBR	4x100m relay men
+2004	Mark Lewis-Francis	GBR	4x100m relay men
+2004	Aleen Bailey	JAM	4x100m relay women
+2004	Veronica Campbell-Brown	JAM	4x100m relay women
+2004	Tanya Lawrence	JAM	4x100m relay women
+2004	Beverly Mcdonald	JAM	4x100m relay women
+2004	Sherone Simpson	JAM	4x100m relay women
+2004	Derrick Brew	USA	4x400m relay men
+2004	Otis Harris	USA	4x400m relay men
+2004	Jeremy Wariner	USA	4x400m relay men
+2004	Darold Williamson	USA	4x400m relay men
+2004	Kelly Willie	USA	4x400m relay men
+2004	Crystal Cox	USA	4x400m relay women
+2004	Monique Henderson	USA	4x400m relay women
+2004	Monique Hennagan	USA	4x400m relay women
+2004	Sanya Richards	USA	4x400m relay women
+2004	Moushaumi Robinson	USA	4x400m relay women
+2004	Deedee Trotter	USA	4x400m relay women
+2004	Hicham El guerrouj	MAR	5000m men
+2004	Meseret Defar	ETH	5000m women
+2004	Robert Korzeniowski	POL	50km walk men
+2004	Yuriy Borzakovskiy	RUS	800m men
+2004	Kelly Holmes	GBR	800m women
+2004	Roman Sebrle	CZE	decathlon men
+2004	Virgilijus Alekna	LTU	discus throw men
+2004	Natalya Sadova	RUS	discus throw women
+2004	Koji Murofushi	JPN	hammer throw men
+2004	Olga Kuzenkova	RUS	hammer throw women
+2004	Carolina Kluft	SWE	heptathlon women
+2004	Stefan Holm	SWE	high jump men
+2004	Elena Slesarenko	RUS	high jump women
+2004	Andreas Thorkildsen	NOR	javelin throw men
+2004	Osleidys Menendez	CUB	javelin throw women
+2004	Dwight Phillips	USA	long jump men
+2004	Tatyana Lebedeva	RUS	long jump women
+2004	Stefano Baldini	ITA	marathon men
+2004	Mizuki Noguchi	JPN	marathon women
+2004	Timothy Mack	USA	pole vault men
+2004	Elena Isinbaeva	RUS	pole vault women
+2004	Yuriy Bilonog	UKR	shot put men
+2004	Yumileidi Cumba	CUB	shot put women
+2004	Christian Olsson	SWE	triple jump men
+2004	Francoise Mbango etone	CMR	triple jump women
+2008	Kenenisa Bekele	ETH	10000m men
+2008	Tirunesh Dibaba	ETH	10000m women
+2008	Usain Bolt	JAM	100m men
+2008	Shelly-Ann Fraser	JAM	100m women
+2008	Dawn Harper	USA	100m hurdles women
+2008	Dayron Robles	CUB	110m hurdles men
+2008	Asbel Kipruto Kiprop	KEN	1500m men
+2008	Nancy jebet Langat	KEN	1500m women
+2008	Usain Bolt	JAM	200m men
+2008	Veronica Campbell-Brown	JAM	200m women
+2008	Olga Kaniskina	RUS	20km race walk women
+2008	Valeriy Borchin	RUS	20km walk men
+2008	Brimin Kiprop Kipruto	KEN	3000m steeplechase men
+2008	Gulnara Galkina-Samitova	RUS	3000m steeplechase women
+2008	LaShawn Merritt	USA	400m men
+2008	Christine Ohuruogu	GBR	400m women
+2008	Angelo Taylor	USA	400m hurdles men
+2008	Melaine Walker	JAM	400m hurdles women
+2008	Usain Bolt	JAM	4x100m relay men
+2008	Nesta Carter	JAM	4x100m relay men
+2008	Michael Frater	JAM	4x100m relay men
+2008	Asafa Powell	JAM	4x100m relay men
+2008	Yuliya Chermoshanskaya	RUS	4x100m relay women
+2008	Aleksandra Fedoriva	RUS	4x100m relay women
+2008	Yulia Gushchina	RUS	4x100m relay women
+2008	Evgeniya Polyakova	RUS	4x100m relay women
+2008	LaShawn Merritt	USA	4x400m relay men
+2008	David Neville	USA	4x400m relay men
+2008	Angelo Taylor	USA	4x400m relay men
+2008	Jeremy Wariner	USA	4x400m relay men
+2008	Allyson Felix	USA	4x400m relay women
+2008	Monique Henderson	USA	4x400m relay women
+2008	Sanya Richards	USA	4x400m relay women
+2008	Mary Wineberg	USA	4x400m relay women
+2008	Kenenisa Bekele	ETH	5000m men
+2008	Tirunesh Dibaba	ETH	5000m women
+2008	Alex Schwazer	ITA	50km walk men
+2008	Wilfred Bungei	KEN	800m men
+2008	Pamela Jelimo	KEN	800m women
+2008	Bryan Clay	USA	decathlon men
+2008	Gerd Kanter	EST	discus throw men
+2008	Stephanie Brown trafton	USA	discus throw women
+2008	Primoz Kozmus	SLO	hammer throw men
+2008	Aksana Miankova	BLR	hammer throw women
+2008	Nataliia Dobrynska	UKR	heptathlon women
+2008	Andrey Silnov	RUS	high jump men
+2008	Tia Hellebaut	BEL	high jump women
+2008	Andreas Thorkildsen	NOR	javelin throw men
+2008	Barbora Spotakova	CZE	javelin throw women
+2008	Irving Jahir Saladino aranda	PAN	long jump men
+2008	Maurren Higa Maggi	BRA	long jump women
+2008	Samuel Kamau Wansiru	KEN	marathon men
+2008	Constantina Tomescu	ROU	marathon women
+2008	Steve Hooker	AUS	pole vault men
+2008	Elena Isinbaeva	RUS	pole vault women
+2008	Tomasz Majewski	POL	shot put men
+2008	Valerie Vili	NZL	shot put women
+2008	Nelson Evora	POR	triple jump men
+2008	Francoise Mbango etone	CMR	triple jump women
+2012	Usain Bolt	JAM	100m men
+2012	Usain Bolt	JAM	200m men
+2012	Usain Bolt	JAM	4x100m relay men
+2012	Allyson Felix	USA	200m women
+2012	Allyson Felix	USA	4x100m relay women
+2012	Allyson Felix	USA	4x400m relay women
+2012	Sanya Richards-Ross	USA	400m women
+2012	Sanya Richards-Ross	USA	4x400m relay women
+2012	Mo Farah	GBR	5000m team men
+2012	Mo Farah	GBR	10miles walk (16093m) men
+2012	Shelly-Ann Fraser-Pryce	JAM	100m women
+2012	Yohan Blake	JAM	4x100m relay men
+2012	Carmelita Jeter	USA	4x100m relay women
+2012	Natalya Antyukh	RUS	400m hurdles women
+2012	Tirunesh Dibaba	ETH	10miles walk (16093m) women
+2012	DeeDee Trotter	USA	4x400m relay women
+2012	Yuliya Zaripova	RUS	3000m steeplechase women
+2012	Ivan Ukhov	RUS	high jump men
+2012	Anna Chicherova	RUS	high jump women
+2012	Tatyana Lysenko	RUS	hammer throw women
+2012	Sergey Kirdyapkin	RUS	50km walk men
+2012	Elena Lashmanova	RUS	20km walk women
+2012	Mariya Savinova	RUS	800m women
+2012	Valerie Adams	NZL	shot put women
+2012	Tomasz Majewski	POL	shot put men
+2012	Ezekiel Kemboi	KEN	3000m steeplechase men
+2012	David Lekuta Rudisha	KEN	800m men
+2012	Olga Rypakova	KAZ	triple jump women
+2012	Robert Harting	GER	discus throw men
+2012	Krisztian Pars	HUN	hammer throw men
+2012	Kirani James	GRN	400m men
+2012	Jessica Ennis	GBR	heptathlon
+2012	Kemar Bailey-Cole	JAM	4x100m relay men
+2012	Nesta Carter	JAM	4x100m relay men
+2012	Michael Frater	JAM	4x100m relay men
+2012	Meseret Defar	ETH	5000m team women
+2012	Tiki Gelana	ETH	marathon women
+2012	Alistair Brownlee	GBR	triathlon (long jump / shot put / 100 yards) men
+2012	Greg Rutherford	GBR	long jump men
+2012	Renaud Lavillenie	FRA	pole vault men
+2012	Sally Pearson	AUS	100m hurdles women
+2012	Taoufik Makhloufi	ALG	1500m men
+2012	Ding Chen	CHN	20km walk men
+2012	Sandra Perkovic	CRO	discus throw women
+2012	Barbora Spotakova	CZE	javelin throw women
+2012	Felix Sanchez	DOM	400m hurdles men
+2012	Chris Brown	BAH	4x400m relay men
+2012	Michael Mathieu	BAH	4x400m relay men
+2012	Ramon Miller	BAH	4x400m relay men
+2012	Demetrius Pinder	BAH	4x400m relay men
+2012	Lauryn Williams	USA	4x100m relay women
+2012	Jennifer Suhr	USA	pole vault women
+2012	Ashton Eaton	USA	decathlon
+2012	Keshia Baker	USA	4x400m relay women
+2012	Diamond Dixon	USA	4x400m relay women
+2012	Brittney Reese	USA	long jump women
+2012	Keshorn Walcott	TRI	javelin throw men
+2012	Stephen Kiprotich	UGA	marathon men
+2012	Alptekin Asli Cakir	TUR	1500m women
+2012	Nicola Spirig	SUI	triathlon (long jump / shot put / 100 yards) women
+2012	Christian Taylor	USA	triple jump men
+2012	Bianca Knight	USA	4x100m relay women
+2012	Aries Merritt	USA	110m hurdles men
+2012	Jeneba Tarmoh	USA	4x100m relay women
+2012	Tianna Madison	USA	4x100m relay women
+2012	Francena McCorory	USA	4x400m relay women
+2016	Usain Bolt	JAM	4x100m relay
+2016	Usain Bolt	JAM	200m
+2016	Usain Bolt	JAM	100m
+2016	Allyson Felix	USA	4x400m relay
+2016	Allyson Felix	USA	4x100m relay
+2016	Elaine Thompson	JAM	200m
+2016	Elaine Thompson	JAM	100m
+2016	Tianna Bartoletta	USA	4x100m relay
+2016	Tianna Bartoletta	USA	long jump
+2016	Mohamed Farah	GBR	5000m team
+2016	Mohamed Farah	GBR	10miles walk (16093m)
+2016	Tori Bowie	USA	4x100m relay
+2016	Vivian Jepkemoi Cheruiyot	KEN	5000m team
+2016	Almaz Ayana	ETH	10miles walk (16093m)
+2016	Lashawn Merritt	USA	4x400m relay
+2016	Morolake Akinosun	USA	4x100m relay
+2016	Nickel Ashmeade	JAM	4x100m relay
+2016	Kemar Bailey-Cole	JAM	4x100m relay
+2016	Ruth Beitia	ESP	high jump
+2016	Yohan Blake	JAM	4x100m relay
+2016	Alistair Brownlee	GBR	triathlon (long jump / shot put / 100 yards)
+2016	Michelle Carter	USA	shot put
+2016	Matthew Centrowitz	USA	1500m
+2016	Kerron Clement	USA	400m hurdles
+2016	Kyle Clemons	USA	4x400m relay
+2016	Ryan Crouser	USA	shot put
+2016	Thiago Braz Da Silva	BRA	pole vault
+2016	Derek Drouin	CAN	high jump
+2016	Ashton Eaton	USA	decathlon
+2016	Taylor Ellis-Watson	USA	4x400m relay
+2016	Phyllis Francis	USA	4x400m relay
+2016	English Gardner	USA	4x100m relay
+2016	Arman Hall	USA	4x400m relay
+2016	Christoph Harting	GER	discus throw
+2016	Natasha Hastings	USA	4x400m relay
+2016	Jeff Henderson	USA	long jump
+2016	Caterine Ibarguen	COL	triple jump
+2016	Ruth Jebet	BRN	3000m steeplechase
+2016	Gwen Jorgensen	USA	triathlon (long jump / shot put / 100 yards)
+2016	Eliud Kipchoge	KEN	marathon
+2016	Conseslus Kipruto	KEN	3000m steeplechase
+2016	Faith Chepngetich Kipyegon	KEN	1500m
+2016	Sara Kolak	CRO	javelin throw
+2016	Hong Liu	CHN	20km walk
+2016	Francena Mccorory	USA	4x400m relay
+2016	Omar Mcleod	JAM	110m hurdles
+2016	Tony Mcquay	USA	4x400m relay
+2016	Shaunae Miller	BAH	400m
+2016	Jevaughn Minzie	JAM	4x100m relay
+2016	Dalilah Muhammad	USA	400m hurdles
+2016	Dilshod Nazarov	TJK	hammer throw
+2016	Courtney Okolo	USA	4x400m relay
+2016	Sandra Perkovic	CRO	discus throw
+2016	Asafa Powell	JAM	4x100m relay
+2016	Jenna Prandini	USA	4x100m relay
+2016	Gil Roberts	USA	4x400m relay
+2016	Thomas Rohler	GER	javelin throw
+2016	Brianna Rollins	USA	100m hurdles
+2016	David Lekuta Rudisha	KEN	800m
+2016	Caster Semenya	RSA	800m
+2016	Ekaterini Stefanidi	GRE	pole vault
+2016	Jemima Jelagat Sumgong	KEN	marathon
+2016	Christian Taylor	USA	triple jump
+2016	Nafissatou Thiam	BEL	heptathlon
+2016	Matej Toth	SVK	50km walk
+2016	NIEKERK Wayde Van	RSA	400m
+2016	David Verburg	USA	4x400m relay
+2016	Zhen Wang	CHN	20km walk
+2016	Ariana Washington	USA	4x100m relay
+2016	Anita Wlodarczyk	POL	hammer throw
