@@ -1,0 +1,7 @@
+All Mars Science Laboratory webpages and images in 03_04 and 03_05/images, as well as locations.xml (in 03_06 and 03_09) were downloaded from http://mars.nasa.gov/msl/multimedia/raw in November 2016.
+
+The image 03_06/mars_cylindrical.jpg is a rescaled version of https://marsoweb.nas.nasa.gov/globalData/images/fullscale/MOLA_cylin.jpg, produced by the Mars Orbiter Laser Altimeter on the Mars Global Surveyor mission.
+
+The image gale_themis_vis_fix_v4_reduced.png was provided by Jonathon Hill at Arizona State University. This image is a mosaic made using data from the Thermal Emission Imaging System (THEMIS) on NASA's Mars Odyssey orbiter, discussed at http://photojournal.jpl.nasa.gov/catalog/PIA19674.
+
+Most NASA images, and all those included here, are made freely available for educational uses.
